@@ -1,0 +1,3 @@
+[submodule "lib/sketch.js"]
+	path = lib/sketch.js
+	url = https://github.com/azumatoshimitsu/sketch.js.git
